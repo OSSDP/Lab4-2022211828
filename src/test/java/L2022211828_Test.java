@@ -20,7 +20,7 @@ public class L2022211828_Test {
 
     @Test
     public void testRemoveDuplicateLetters_AllSame() {
-        String input = "aaaaaa";
+        String input = "aaaaaaa";
         String expected = "a";
         String result = solution.removeDuplicateLetters(input);
         assertEquals(expected, result);
