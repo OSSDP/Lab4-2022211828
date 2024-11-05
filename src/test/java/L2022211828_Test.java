@@ -5,7 +5,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class Solution2Test {
+public class L2022211828_Test {
 
     private final Solution2 solution = new Solution2();
 
